@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+### Chrome Extension
+JSON Formatter
+
+### VSCODE Extension
+eslint, console ninja, auto close tag, codeium, indent-rainbow, ES7+ React/Redux/React-Native snippets, git graph, thunder client
+
 First, run the development server:
 
 ```bash
