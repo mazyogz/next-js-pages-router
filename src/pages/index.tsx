@@ -1,12 +1,13 @@
-import Navbar from '@/components/layouts/Navbar'
+import Navbar from "@/components/layouts/Navbar";
+import Head from "next/head";
 
 export default function Home() {
   return (
     <div>
-      {/* <Navbar/> */}
-      <div>
-        hello world
-      </div>
+      <Head>
+        <title>Home</title>
+      </Head>
+      <div>hello yogz</div>
     </div>
-  )
+  );
 }
